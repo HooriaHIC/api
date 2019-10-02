@@ -6,5 +6,5 @@
     {"id": 4, "client": "zayn", "date": "30/3/2015", "payment": 206, "status": "paid"},
     {"id": 5, "client": "delma", "date": "13/5/2016", "payment": 20, "status": "due"},
     {"id": 6, "client": "leo", "date": "3/4/2019", "payment": 400, "status": "paid"}
-]
+  ]
 }
