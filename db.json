@@ -2,33 +2,32 @@
   questions : [
 
         {
-            id: 1,
-            question: "Whats my name?",
-            answer_a:
-                "Nate",
-            answer_b: "Brielle",
-            answer_c:
+            "id": 1,
+            "question": "Whats my name?",
+            "answer_a":"Nate",
+            "answer_b": "Brielle",
+            "answer_c":
                 "Hooria",
-            answer_d: "I don`t know",
-            correct_answer: "c",
+            "answer_d": "I don`t know",
+            "correct_answer": "c",
         },
         {
-            id: 2,
-            question: "How old am i?",
-            answer_a: "45",
-            answer_b: "just turned 18",
-            answer_c: "14",
-            answer_d: "10",
-            correct_answer: "c",
+            "id": 2,
+            "question": "How old am i?",
+            "answer_a": "45",
+            "answer_b": "just turned 18",
+            "answer_c": "14",
+            "answer_d": "10",
+            "correct_answer": "c",
         },
         {
-            id: 3,
-            question: "i like..",
-            answer_a: "Tea",
-            answer_b: "Coffee",
-            answer_c: "Kahwa",
-            answer_d: "Water",
-            correct_answer: "c",
+            "id": 3,
+            "question": "i like..",
+            "answer_a": "Tea",
+            "answer_b": "Coffee",
+            "answer_c": "Kahwa",
+            "answer_d": "Water",
+            "correct_answer": "c",
         },
     ]
 }
